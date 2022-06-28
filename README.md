@@ -1,1 +1,1 @@
-# OB-JS2
+# Ejercicio 2 de JavaScript de Open Bootcamp
